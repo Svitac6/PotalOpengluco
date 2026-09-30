@@ -31,7 +31,6 @@ Les données sont stockées avec **PostgreSQL** et **InfluxDB**.
 * Stockage des données
 * Visualisation des données glycémiques
 * Graphiques interactifs
-* Architecture séparée entre frontend, API et serveur
 
 ## Captures d'écran
 
@@ -47,7 +46,9 @@ Les données sont stockées avec **PostgreSQL** et **InfluxDB**.
 
 ### Gestion des données
 
-![Visualisation](docs/img/image3.png)
+![Gestion](docs/img/image3.png)
+
+![Gestion2](docs/img/image5.png)
 
 
 ## Projet
