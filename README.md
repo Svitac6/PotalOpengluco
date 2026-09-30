@@ -43,6 +43,7 @@ Les données sont stockées avec **PostgreSQL** et **InfluxDB**.
 ### Visualisation des données
 
 ![Visualisation](docs/img/image4.png)
+![Visualisation2](docs/img/gluco.png)
 
 ### Gestion des données
 
