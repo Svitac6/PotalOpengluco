@@ -1,0 +1,28 @@
+fastapi
+uvicorn[standard]
+
+# PostgreSQL
+psycopg[binary]
+
+# InfluxDB client
+influxdb-client
+
+# (optionnel) Pour l’environnement
+python-dotenv
+
+git+https://github.com/OpenGluco/pydexcom.git
+
+git+https://github.com/OpenGluco/libre-linkup-py.git
+
+Flask
+
+PyJWT
+
+werkzeug
+cryptography
+
+flask-cors
+
+influxdb-client
+
+gunicorn

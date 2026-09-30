@@ -1,0 +1,7 @@
+configs/credentials.js
+configs/credentials.json
+/api/__pycache__
+.env
+.vscode/
+connecttodb.bat
+nginx.conf
