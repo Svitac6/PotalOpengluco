@@ -2,11 +2,6 @@
 
 OpenGluco est une plateforme open source permettant de **centraliser, normaliser et visualiser des données de glycémie** provenant de différentes sources.
 
-Le projet est composé de trois parties principales :
-
-* **Portal** : frontend développé avec React, TypeScript, Material UI et Tailwind CSS.
-* **API** : API développée en Python permettant de gérer les données et les échanges avec le frontend.
-
 Les données sont stockées avec **PostgreSQL** et **InfluxDB**.
 
 
